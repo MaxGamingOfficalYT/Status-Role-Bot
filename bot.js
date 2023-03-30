@@ -63,10 +63,10 @@ client.login(config.env.TOKEN || process.env.TOKEN);
 
 /**********************************************************
  * @INFO
- * Bot Coded by MAX GAMING YTᵈᵉᵛ#8643| https://discord.gg/u9x5gdZ6Vw
+ * Bot Coded by Just a Potato#5404 | https://dsc.gg/potatofam
  * @INFO
- * Work for MAX GAMING YT | https://discord.gg/u9x5gdZ6Vw
+ * Work for Sylanio Development | https://sylanio.xyz
  * @INFO
- * Please Mention Us MAX GAMING YT, When Using This Code!
+ * Please mention him / Sylanio Development, when using this Code!
  * @INFO
  *********************************************************/
