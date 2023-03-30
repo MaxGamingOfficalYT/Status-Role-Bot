@@ -9,7 +9,7 @@ module.exports = async (client) => {
   // Console Logger
   client.logger = (data) => {
     // if (!settings[`debug-logs`]) return;
-    let logstring = `${String(`MAX_GAMING_YT`).brightGreen}${` | `.grey}${`${moment().format("ddd DD-MM-YYYY HH:mm:ss.SSSS")}`.cyan}${` 〢 `.magenta}`
+    let logstring = `${String(`SYLANIO_DEVELOPMENT`).brightGreen}${` | `.grey}${`${moment().format("ddd DD-MM-YYYY HH:mm:ss.SSSS")}`.cyan}${` 〢 `.magenta}`
     if (typeof data == "string") {
       console.log(logstring, data.split("\n").map(d => `${d}`.green).join(`\n${logstring} `))
     } else if (typeof data == "object") {
